@@ -5,7 +5,7 @@
   "projects": {
     "TIM-Front": {
       "root": "",
-      "sourceRoot": "",
+      "sourceRoot": "src",
       "projectType": "application",
       "prefix": "app",
       "schematics": {},
